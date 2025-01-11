@@ -1,4 +1,4 @@
-![Amanar Marouane banner]([https://photos.app.goo.gl/S3b985uNjLCuWZBM8](https://photos.fife.usercontent.google.com/pw/AP1GczPZRqmZFv1xJweX-NGPjImDRpPnljyFa-XpJtBNzkgyVhIhbZoXXq9b=w689-h919-s-no-gm?authuser=0))
+![Amanar Marouane banner](https://photos.fife.usercontent.google.com/pw/AP1GczPZRqmZFv1xJweX-NGPjImDRpPnljyFa-XpJtBNzkgyVhIhbZoXXq9b=w689-h919-s-no-gm?authuser=0)
 <h1 align="center">Hi 👋, I'm Amanar Marouane</h1>
 <h3 align="center">Full-Stack Developer | Passionate about crafting efficient, scalable, and user-friendly applications.</h3>
 
