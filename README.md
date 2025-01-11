@@ -1,4 +1,4 @@
-[!Amanar Marouane banner](https://photos.app.goo.gl/S3b985uNjLCuWZBM8)
+![Amanar Marouane banner](https://photos.app.goo.gl/S3b985uNjLCuWZBM8)
 <h1 align="center">Hi 👋, I'm Amanar Marouane</h1>
 <h3 align="center">Full-Stack Developer | Passionate about crafting efficient, scalable, and user-friendly applications.</h3>
 
