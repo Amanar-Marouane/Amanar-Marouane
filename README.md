@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./Lᴏs%20sᴇᴄʀᴇᴛᴏs%20ᴅᴇʟ%20ᴄᴀsɪɴᴏ_.jfif" alt="Amanar Marouane banner" />
 </div>
-<h1 align="center">Hi 👋, I'm Amanar Marouane</h1>
+<h1 align="center">Heyy, I'm Amanar Marouane</h1>
 <h3 align="center">Full-Stack Developer | Passionate about crafting efficient, scalable, and user-friendly applications.</h3>
 
 - 🔭 I’m currently working on **NearTrade**
