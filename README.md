@@ -1,3 +1,6 @@
+<div align="center">
+   <img src="./Lᴏs%20sᴇᴄʀᴇᴛᴏs%20ᴅᴇʟ%20ᴄᴀsɪɴᴏ_.jfif" alt="Amanar Marouane banner" />
+ </div>
 <h1 align="center">Heyy, I'm Amanar Marouane</h1>
 <h3 align="center">Junior Full-Stack Developer | Java, JavaScript, PHP, HTML, CSS, MySQL, OOP, Git, VS Code, Linux basics.</h3>
 
