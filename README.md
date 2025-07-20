@@ -2,7 +2,7 @@
    <img src="./Lᴏs%20sᴇᴄʀᴇᴛᴏs%20ᴅᴇʟ%20ᴄᴀsɪɴᴏ_.jfif" alt="Amanar Marouane banner" />
  </div>
 <h1 align="center">Heyy, I'm Amanar Marouane</h1>
-<h3 align="center">Junior Full-Stack Developer | Java, JavaScript, ReactJs, PHP, MySQL, OOP, Git, VS Code, Linux basics.</h3>
+<h3 align="center">Junior Full-Stack Developer | JavaScript, ReactJs, NextJs, PHP Native, Laravel, MySQL, OOP, Git, Linux basics.</h3>
 
 - 🔭 I’m currently working on **Refactoring a business management application**
 
@@ -10,13 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amanar-Marouane](https://github.com/Amanar-Marouane)
 
-- 💬 Ask me about **React, Laravel**
+- 💬 Ask me about any of the above.
 
 - 📫 How to reach me **marouane.amannar07@gmail.com**
 
 - 📄 Know about my experiences [https://amanar-marouane.github.io/my-resume/Amanar_Marouane_D%C3%A9veloppeur_FullStack_CV.html](https://amanar-marouane.github.io/my-resume/Amanar_Marouane_D%C3%A9veloppeur_FullStack_CV.html)
-
-- ⚡ Fun fact **I’ve got a brain full of code and a heart full of determination—just don’t ask me to debug my life; it’s still a work in progress!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
