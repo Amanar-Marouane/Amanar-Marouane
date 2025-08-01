@@ -2,8 +2,7 @@
    <img src="./Lᴏs%20sᴇᴄʀᴇᴛᴏs%20ᴅᴇʟ%20ᴄᴀsɪɴᴏ_.jfif" alt="Amanar Marouane banner" />
  </div>
 <h1 align="center">Hi, I'm Amanar Marouane</h1>
-<h3 align="center">Full Stack Developer, adaptable and open to working with any technology to build secure, responsive web
-                applications and solutions.</h3>
+<h3 align="center">Full Stack Developer, adaptable and open to work with any technology, to build secure, responsive web applications and solutions.</h3>
 
 - 🔭 I’m currently working on **Tarmiz Exchange** and contributing to **MonkeysLegion Framework**
 
